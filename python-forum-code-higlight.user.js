@@ -6,6 +6,7 @@
 // @author         stranac
 // @description    Adds code highighting to python-forum.org
 // @include        http://python-forum.org/viewtopic.php*
+// @include        http://python-forum.org/posting.php*
 // @run-at         document-end
 // @require        https://google-code-prettify.googlecode.com/svn/loader/prettify.js
 // @resource       PrettifyCSS https://raw.githubusercontent.com/stranac/misc/master/python-forum-code-dark.css
