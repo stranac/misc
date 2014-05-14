@@ -1,0 +1,69 @@
+/* Google prettify style for python-forum.org */
+/* Should be used with userstyles.org/styles/91973/python-forum-org-shades-of-grey */
+
+.prettyprint {
+  font-family: Menlo, 'Bitstream Vera Sans Mono', 'DejaVu Sans Mono', Monaco, Consolas, monospace;
+  font-size: 12px;
+  line-height: 1.5;
+  padding: 10px 0;
+}
+
+.pln {
+  color: #000;
+}
+
+@media screen {
+  .str {
+    color: #B702B1;
+  }
+
+  .kwd {
+    color: #130E81;
+  }
+
+  .com {
+    color: #444;
+    font-style: italic;
+  }
+
+  .typ {
+    color: #805500;
+  }
+
+  .lit {
+    color: #c00;
+  }
+
+  .pun {
+    color: #222;
+  }
+}
+
+/* Specify class=linenums on a pre to get line numbering */
+ol.linenums {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/* IE indents via margin-left */
+li.L0,
+li.L1,
+li.L2,
+li.L3,
+li.L4,
+li.L5,
+li.L6,
+li.L7,
+li.L8,
+li.L9 {
+  /* */
+}
+
+/* Alternate shading for lines */
+li.L1,
+li.L3,
+li.L5,
+li.L7,
+li.L9 {
+  /* */
+}
