@@ -1,7 +1,7 @@
 // ==UserScript==
 // @id             python-forum-code-higlight
 // @name           Python Forum code highlighting
-// @version        1.0
+// @version        1.0.1
 // @namespace      stranac
 // @author         stranac
 // @description    Adds code highlighting to python-forum.org
